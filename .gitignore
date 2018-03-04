@@ -61,4 +61,6 @@ typings/
 .node-version
 
 # ethereum
+private/geth/*
+keystore/*
 *.sec
