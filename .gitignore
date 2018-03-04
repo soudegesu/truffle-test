@@ -63,4 +63,5 @@ typings/
 # ethereum
 private/geth/*
 keystore/*
+private/keystore/*
 *.sec
