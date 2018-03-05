@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/soudegesu/truffle-test#readme",
   "dependencies": {
-    "truffle": "^4.1.0"
+    "solc": "^0.4.18",
+    "truffle": "^4.1.0",
+    "web3": "^0.20.0"
   }
 }
