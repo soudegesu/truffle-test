@@ -65,3 +65,4 @@ private/geth/*
 keystore/*
 private/keystore/*
 *.sec
+build/
