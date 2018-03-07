@@ -4,7 +4,11 @@
   "description": "* requirements     * node 9.6.1",
   "main": "index.js",
   "scripts": {
-    "truffle": "truffle"
+    "truffle": "truffle",
+    "develop": "truffle develop",
+    "log": "truffle develop --log",
+    "truffle-ganache": "truffle migrate --compile-all --reset --network ganache",
+    "truffle-console": "truffle console --network ganache"
   },
   "repository": {
     "type": "git",
